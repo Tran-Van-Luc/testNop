@@ -1,0 +1,107 @@
+#display {
+    width: 1440px;
+    height: 2650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#display_head {
+    width: 1440px;
+    height: 70px;
+}
+#menu {
+    height: 70px;
+    display: flex;
+}
+#logo {
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#menu_choose {
+    width: 1310px;
+    display: flex;
+    justify-content: space-between;
+}
+#menu_choose_left {
+    width: 510px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#menu_choose_right {
+    width: 520px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#display_tail {
+    width: 1180px;
+    height: 2580px;
+}
+#title{
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+}
+#titleStar {
+    width: 1180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#imgintitle {
+    height: 440px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#desciption {
+    height: 460px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#desciption_left {
+    width: 775px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#desciption_right {
+    width: 340px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#frame {
+    width: 340px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#reviews {
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#related {
+    height: 560px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#tail {
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
